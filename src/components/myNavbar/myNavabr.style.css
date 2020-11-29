@@ -1,0 +1,44 @@
+.logo {
+    width: 40%;
+  }
+  
+  .nav-theme {
+    background-color: #101018f8;
+    font-size: 20px;
+  }
+  
+  .animate-navbar {
+    box-shadow: 1px 1px 1px #222;
+    animation: moveDown 0.5s ease-in-out;
+  }
+
+  @keyframes moveDown {
+    from {
+      transform: translateY(-5rem);
+    }
+    to {
+      transform: translateY(0rem);
+    }
+  }
+
+  @media only screen and (max-width: 600px) {
+     .nav-link 
+    {
+      display: inline-grid;
+      padding: 0.8rem 1rem;
+    }
+    .navbar-toggler
+    {
+      display: inline-grid;
+      justify-content: flex-end !important; 
+    } 
+    .justify-content-between 
+    {
+      justify-content: center !important; 
+      text-align: center; 
+    }
+    .logo
+    {
+      display: none;
+    } 
+  }
