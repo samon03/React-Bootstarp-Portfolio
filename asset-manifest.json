@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React-Bootstarp-Portfolio/static/css/main.c1d67ad1.chunk.css",
-    "main.js": "/React-Bootstarp-Portfolio/static/js/main.46b1a8f8.chunk.js",
-    "main.js.map": "/React-Bootstarp-Portfolio/static/js/main.46b1a8f8.chunk.js.map",
+    "main.js": "/React-Bootstarp-Portfolio/static/js/main.89c23aa0.chunk.js",
+    "main.js.map": "/React-Bootstarp-Portfolio/static/js/main.89c23aa0.chunk.js.map",
     "runtime-main.js": "/React-Bootstarp-Portfolio/static/js/runtime-main.437262d5.js",
     "runtime-main.js.map": "/React-Bootstarp-Portfolio/static/js/runtime-main.437262d5.js.map",
     "static/js/2.197afe6a.chunk.js": "/React-Bootstarp-Portfolio/static/js/2.197afe6a.chunk.js",
@@ -13,7 +13,6 @@
     "static/media/DriDrop.a3b8cc37.png": "/React-Bootstarp-Portfolio/static/media/DriDrop.a3b8cc37.png",
     "static/media/Keep.85ce6c5b.png": "/React-Bootstarp-Portfolio/static/media/Keep.85ce6c5b.png",
     "static/media/LangingPage.3570b61c.png": "/React-Bootstarp-Portfolio/static/media/LangingPage.3570b61c.png",
-    "static/media/Messenger.d0dfd86e.png": "/React-Bootstarp-Portfolio/static/media/Messenger.d0dfd86e.png",
     "static/media/Netflix.5cfe6b91.png": "/React-Bootstarp-Portfolio/static/media/Netflix.5cfe6b91.png",
     "static/media/Portfolio.c00acd17.png": "/React-Bootstarp-Portfolio/static/media/Portfolio.c00acd17.png",
     "static/media/ProUI.c8eace5d.png": "/React-Bootstarp-Portfolio/static/media/ProUI.c8eace5d.png",
@@ -53,6 +52,6 @@
     "static/js/runtime-main.437262d5.js",
     "static/js/2.197afe6a.chunk.js",
     "static/css/main.c1d67ad1.chunk.css",
-    "static/js/main.46b1a8f8.chunk.js"
+    "static/js/main.89c23aa0.chunk.js"
   ]
 }
